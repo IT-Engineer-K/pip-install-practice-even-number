@@ -1,1 +1,1 @@
-from .is_odd import is_odd as check
+from .is_odd import is_odd
