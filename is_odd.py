@@ -1,2 +1,2 @@
-def is_odd(number):
+def __call__(number):
     return number % 2 != 0
