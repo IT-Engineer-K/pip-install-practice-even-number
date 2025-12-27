@@ -1,1 +1,1 @@
-from .is_odd import is_odd
+from .check import is_odd, is_even
