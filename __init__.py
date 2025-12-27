@@ -1,1 +1,0 @@
-from .is_odd import is_odd
